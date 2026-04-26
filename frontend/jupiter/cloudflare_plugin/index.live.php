@@ -1,0 +1,3 @@
+<?php
+// Interface utilisateur cPanel
+?>
